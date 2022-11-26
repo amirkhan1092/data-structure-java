@@ -16,7 +16,7 @@ public class Triangle {
             }
         }
         catch (Exception e) {
-            System.out.println("Problem with Input and Output");
+            System.out.println("Problem with Input and Output "+ e);
         }
 
 
